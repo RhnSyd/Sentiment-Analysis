@@ -15,11 +15,13 @@ Key Python libraries
 # Usage
 
 Training the Model
+
 Prepare your dataset in a CSV or text format with columns for the text and its associated sentiment label.
 Modify the data preprocessing section in the Sentiment_Analysis_using_LSTM_and_Self_Attention_Rehan_Syed.ipynb file to load and preprocess your dataset.
 Run the Jupyter Notebook to train the model on your data.
 
 Testing the Model
+
 Use the provided test data or your own dataset to evaluate the model's performance.
 Metrics such as accuracy, precision, recall, and F1-score are calculated within the notebook.
 
